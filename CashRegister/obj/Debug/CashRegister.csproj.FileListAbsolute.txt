@@ -1,0 +1,15 @@
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\CashRegister\CashRegister\bin\Debug\CashRegister.exe.config
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\CashRegister\CashRegister\bin\Debug\CashRegister.exe
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\CashRegister\CashRegister\bin\Debug\CashRegister.pdb
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\CashRegister\CashRegister\obj\Debug\CashRegister.csprojAssemblyReference.cache
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\CashRegister\CashRegister\obj\Debug\App.g.cs
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\CashRegister\CashRegister\obj\Debug\CashRegister_MarkupCompile.cache
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\CashRegister\CashRegister\obj\Debug\CashRegister_MarkupCompile.lref
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\CashRegister\CashRegister\obj\Debug\CashRegister.g.resources
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\CashRegister\CashRegister\obj\Debug\CashRegister.Properties.Resources.resources
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\CashRegister\CashRegister\obj\Debug\CashRegister.csproj.GenerateResource.cache
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\CashRegister\CashRegister\obj\Debug\CashRegister.csproj.CoreCompileInputs.cache
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\CashRegister\CashRegister\obj\Debug\CashRegister.exe
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\CashRegister\CashRegister\obj\Debug\CashRegister.pdb
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\CashRegister\CashRegister\obj\Debug\MainWindow.g.cs
+C:\Users\cavan_000\Documents\Dylan_FilesData\NET I\CashRegister\CashRegister\obj\Debug\MainWindow.baml
